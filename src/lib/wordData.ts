@@ -1,0 +1,1 @@
+export const searchPhrase:string = "Sukienka czerwona"
